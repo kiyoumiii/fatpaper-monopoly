@@ -1,11 +1,5 @@
 Fatpaper 联机大富翁
 =====
-捐赠/赞赏途径:
-1. 爱发电平台：https://afdian.com/a/fatpaper;
-2. 游戏相关资源（模型、角色、图片）爱发电平台有上架⬆️；
-3. 赞赏码, 直达作者：
-<img src="https://monopoly-static-1304992673.cos.ap-guangzhou.myqcloud.com/appreciate.png" height="600px" width="600px"/>
-
 
 大富翁总项目，使用子模块引用各个大富翁部分，支持使用docker运行项目。
 >全局配置请到根目录的`global.config.ts`中修改。
