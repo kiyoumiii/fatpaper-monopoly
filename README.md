@@ -1,6 +1,10 @@
 Fatpaper 联机大富翁
 =====
 
+![01](kabi_dfw/01.jpg)
+![02](kabi_dfw/02.jpg)
+![03](kabi_dfw/03.jpg)
+
 大富翁总项目，使用子模块引用各个大富翁部分，支持使用docker运行项目。
 >全局配置请到根目录的`global.config.ts`中修改。
 
